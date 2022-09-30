@@ -11,6 +11,6 @@ node
         echo "Unit testing"
         }
     stage('Delivery'){
-        echo "deloivery the code"
+        echo "delivery the code"
         }
 }
